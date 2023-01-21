@@ -1,3 +1,5 @@
+Hosted Link: https://placement-cell-ojfg.onrender.com
+
 # manageJobs Features
 This is a placement cell project meant to manage the status of many students
 - Keep an eyes on who is interested in which job. 
